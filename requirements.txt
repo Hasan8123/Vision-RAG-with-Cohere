@@ -1,0 +1,9 @@
+streamlit
+cohere
+google-genai
+Pillow
+tqdm
+numpy
+PyMuPDF
+requests
+python-dotenv
